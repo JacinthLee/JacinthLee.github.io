@@ -6,7 +6,7 @@
 # Site
 title: Jacinth's Blog
 subtitle: 
-description: Stay hungry. Stay foolish.</br>[Jacinth's 简书](http://www.jianshu.com/u/a3d22d85e192)
+description: Stay hungry. Stay foolish.
 author: Jacinth Lee
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -230,8 +230,8 @@ social_icons:
 
 
  Sidebar Avatar
- in directory: /assets/images/avatar.gif
-#avatar: http://cdnq.duitang.com/uploads/item/201505/23/20150523010237_trNRW.thumb.700_0.jpeg
+# in directory: /assets/images/avatar.gif
+ avatar: http://cdnq.duitang.com/uploads/item/201505/23/20150523010237_trNRW.thumb.700_0.jpeg
 
 
 # Table Of Contents in the Sidebar
