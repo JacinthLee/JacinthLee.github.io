@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Jacinth's Blog
-subtitle:
+title: Stay hungry. Stay foolish.
+subtitle: [Jacinth's 简书](http://www.jianshu.com/u/a3d22d85e192)
 description:
 author: Jacinth Lee
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -231,7 +231,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: https://ws1.sinaimg.cn/large/006tNc79gy1fidijv94dfj30kq0kut9l.jpg
 
 
 # Table Of Contents in the Sidebar
